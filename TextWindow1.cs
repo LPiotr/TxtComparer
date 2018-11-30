@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TxtComparer
 {
-    public partial class TextWindow1 : UserControl
+    public partial class TextWindow : UserControl
     {
-        public TextWindow1()
+        public TextWindow()
         {
             InitializeComponent();
         }
